@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "JOHN DOE",
+        "title": "Senior Mechanic",
+        "img": "https://nieamulkabir.github.io/repairdata/img/team/member1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BOB CORNWALL",
+        "title": "Junior Mechanic",
+        "img": "https://nieamulkabir.github.io/repairdata/img/team/member2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "JOSEPH ROBLES",
+        "title": "General Manager",
+        "img": "https://nieamulkabir.github.io/repairdata/img/team/member3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "JULIANA KOST",
+        "title": "Co-Founder",
+        "img": "https://nieamulkabir.github.io/repairdata/img/team/member4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Johan Smith",
+        "title": "Mechanic",
+        "img": "https://nieamulkabir.github.io/repairdata/img/team/member5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "TOM HARDY",
+        "title": "Senior Mechanic",
+        "img": "https://nieamulkabir.github.io/repairdata/img/team/member6.jpg"
+    }
+]
