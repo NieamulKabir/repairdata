@@ -1,62 +1,62 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "AUTO INSPECTION",
         "price": "600",
         "title": "We Provide an Excellent Approach with Auto Inspection Services.",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/Additional-Services.jpg"
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "AUTO DIAGNOSTICS",
         "price": "400",
         "title": "When your check engine light is on,it can be a issue That is coming soon.",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/Auto-Diagnosis.jpg"
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "AUTO MAINTENANCE",
         "price": "250",
         "title": "We Provide All type of Maintenance Services ie Air Filter, Enginee Air Filter",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/Auto-Maintenance.jpg"
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "AUTO REPAIR",
         "price": "380",
         "title": "MotoPress Provide All you Need for Auto Repair and Maintenance Services.",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/Auto-Repair.jpg"
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Brake Service",
         "price": "150",
         "title": "Brake services fix vibrating or grinding brakes  for you  .",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/brk-service.jpg"
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Car Maintenance",
         "price": "300",
         "title": "Proper maintenance helps extend the life of your vehicle Maintenance keeps.",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/maintance.jpg"
     },
     {
-        "id": 7,
+        "id": "7",
         "name": "POLISHING SERVICE",
         "price": "120",
         "title": "Polishing helps to mask imperfections on the surface so that scratches.",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/polishing.jpg"
     },
     {
-        "id": 8,
+        "id": "8",
         "name": "Tyre Service",
         "price": "170",
         "title": "Frequent inspection of your tyres for signs of damage and their general condition.",
         "img": "https://nieamulkabir.github.io/repairdata/img/service/tire.jpg"
     },
     {
-        "id": 9,
+        "id": "9",
         "name": "WHEEL ALIGNMENT",
         "price": "300",
         "title": "A wheel alignment is an important service that should be done on a regular basis.",
