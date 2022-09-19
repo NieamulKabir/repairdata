@@ -1,0 +1,68 @@
+{
+    "services":[
+        {
+            "id": 1,
+            "name": "AUTO INSPECTION",
+            "price": "600",
+            "description": "We Provide an Excellent Approach with Auto Inspection Services no one Provide Such Kind of These Full Auto Repair Services. Call us Today for Auto Inspection Services.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/Additional-Services.jpg"
+        },
+        {
+            "id": 2,
+            "name": "AUTO DIAGNOSTICS",
+            "price": "400",
+            "description": "When your check engine light is on, it can be a minor issue That is coming soon. Bring your vehicle to us and we’ll Take Care of and clear any issue as you need.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/Auto-Diagnosis.jpg"
+        },
+        {
+            "id": 3,
+            "name": "AUTO MAINTENANCE",
+            "price": "250",
+            "description": "We Provide All type of Maintenance Services ie Air Filter, Enginee Air Filter, Enginee Diagnostic, and Many Other. Call us Today for Your Auto Maintenance Servece.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/Auto-Maintenance.jpg"
+        },
+        {
+            "id": 4,
+            "name": "AUTO REPAIR",
+            "price": "380",
+            "description": "MotoPress Provide All you Need for Auto Repair and Maintenance Services. Our Auto Repair Services Include Electrical System, CV Joint, Engine Repair and Many Others.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/Auto-Repair.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Brake Service",
+            "price": "150",
+            "description": "Brake services fix vibrating or grinding brakes. Visit Jiffy Lube for brake maintenance services, brake repair, and/or pad replacement for smooth braking.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/brk-service.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Car Maintenance",
+            "price": "300",
+            "description": "Proper maintenance helps extend the life of your vehicle.Maintenance keeps your vehicle running smoothly and safely down the road for a much longer distance compared to never doing upkeep.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/maintance.jpg"
+        },
+        {
+            "id": 7,
+            "name": "POLISHING SERVICE",
+            "price": "120",
+            "description": "Polishing helps to mask imperfections on the surface so that scratches and small dents are less noticeable. Polishing also helps to reduce the appearance of water spots or weakened paint from the effects of acid rain.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/polishing.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Tyre Service",
+            "price": "170",
+            "description": "Frequent (at least once a month) inspection of your tyres for signs of damage and their general condition is important for safety. If you have any questions, have your tyre dealer inspect them.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/tire.jpg"
+        },
+        {
+            "id": 9,
+            "name": "WHEEL ALIGNMENT",
+            "price": "300",
+            "description": "A wheel alignment is an important service that should be done on a regular basis. Most manufacturers will state in the vehicle’s how often you should have the wheel aligned.",
+            "img": "https://nieamulkabir.github.io/repairdata/img/service/Wheel-Alignment.jpg"
+        }
+    ]
+}
+    
